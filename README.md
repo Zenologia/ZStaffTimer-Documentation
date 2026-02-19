@@ -1,6 +1,6 @@
 # ZStaffTime — Admin Guide 🛠️
 
-*Developed by Zenologia as a trial task* [DevRoom](https://discord.gg/M5b6JWcceP)
+*Developed by Zenologia as a trial task for* [DevRoom](https://discord.gg/M5b6JWcceP)
 
 **Note: This is only public documenation.  The code is private.**
 
